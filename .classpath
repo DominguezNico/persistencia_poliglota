@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/1- Aplicaciones Interactivas/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/objectdb-2.8.6/bin/converter.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/objectdb-2.8.6/bin/explorer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/objectdb-2.8.6/bin/objectdb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/objectdb-2.8.6/bin/objectdb-jee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Sql server/sqljdbc_9.4/enu/mssql-jdbc-9.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Sql server/sqljdbc_9.4/enu/mssql-jdbc-9.4.0.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Sql server/sqljdbc_9.4/enu/mssql-jdbc-9.4.0.jre16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/neo4j-java-driver-4.4.0-beta01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/neo4j-java-driver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/reactive-streams-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Neo4j/reactive-streams-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Redis/jedis-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/Redis/jedis-3.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/MongoDB/mongo-java-driver-3.12.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nico_/Desktop/Segundo cuatrimestre/2- Base de Datos 2/Librerias utiles persistencia poliglota/MongoDB/mongo-java-driver-3.12.6-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
