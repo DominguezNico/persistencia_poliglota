@@ -17,7 +17,7 @@ public class ControladorNeo4j {
 	
 	
 	private ControladorNeo4j() {
-		driver=GraphDatabase.driver("bolt://54.84.174.220:7687",AuthTokens.basic("neo4j","paces-liters-buoys"));
+		driver=GraphDatabase.driver("bolt://{ip dada por neo4j}",AuthTokens.basic("{user dado por neo4j}","{contraseña dada por neo4j}"));
 	}
 	
 	public static ControladorNeo4j getInstancia() {
